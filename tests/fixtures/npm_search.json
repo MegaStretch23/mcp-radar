@@ -1,0 +1,176 @@
+{
+ "objects": [
+  {
+   "downloads": {
+    "monthly": 2203358,
+    "weekly": 680367
+   },
+   "dependents": "19",
+   "updated": "2026-11-13T01:35:09.079Z",
+   "searchScore": 48.33717,
+   "package": {
+    "name": "agent-device",
+    "keywords": [
+     "agent",
+     "device",
+     "cli",
+     "automation",
+     "adb",
+     "simctl"
+    ],
+    "version": "0.21.37",
+    "description": "Open source device layer for AI coding agents: a CLI, MCP server, and typed Node.js API to control mobile, web, TV, and desktop apps on devices and simulators, locally or in the cloud.",
+    "sanitized_name": "agent-device",
+    "license": "MIT",
+    "date": "2026-11-12T21:20:13.829Z",
+    "links": {
+     "homepage": "https://agent-device.dev/",
+     "repository": "git+https://github.com/callstack/agent-device.git",
+     "bugs": "https://github.com/callstack/agent-device/issues",
+     "npm": "https://www.npmjs.com/package/agent-device"
+    }
+   },
+   "flags": {
+    "insecure": 0
+   }
+  },
+  {
+   "downloads": {
+    "monthly": 1955075,
+    "weekly": 351882
+   },
+   "dependents": "7",
+   "updated": "2026-11-12T09:58:39.567Z",
+   "searchScore": 46.790676,
+   "package": {
+    "name": "rea-agents",
+    "keywords": [
+     "reverse-engineering",
+     "binary-analysis",
+     "agents",
+     "agent-skills",
+     "cli",
+     "mcp-server"
+    ],
+    "version": "6.9.0",
+    "description": "Reverse engineer anything from your terminal or agent with one CLI and MCP server.",
+    "sanitized_name": "rea-agents",
+    "license": "MIT",
+    "date": "2026-11-12T09:53:32.539Z",
+    "links": {
+     "homepage": "https://github.com/morluto/rea#readme",
+     "repository": "git+https://github.com/morluto/rea.git",
+     "bugs": "https://github.com/morluto/rea/issues",
+     "npm": "https://www.npmjs.com/package/rea-agents"
+    }
+   },
+   "flags": {
+    "insecure": 0
+   }
+  },
+  {
+   "downloads": {
+    "monthly": 772000,
+    "weekly": 170164
+   },
+   "dependents": "0",
+   "updated": "2026-11-13T01:30:04.462Z",
+   "searchScore": 45.207264,
+   "package": {
+    "name": "@zereight/mcp-gitlab",
+    "keywords": [
+     "gitlab",
+     "gitlab-mcp",
+     "mcp",
+     "mcp-server",
+     "model-context-protocol",
+     "gitlab-api"
+    ],
+    "version": "2.3.26",
+    "description": "GitLab MCP server for projects, merge requests, issues, pipelines, wiki, releases, and more",
+    "sanitized_name": "@zereight/mcp-gitlab",
+    "license": "MIT",
+    "date": "2026-11-12T06:42:09.608Z",
+    "links": {
+     "homepage": "https://zereight.github.io/gitlab-mcp/",
+     "repository": "git+https://github.com/zereight/gitlab-mcp.git",
+     "bugs": "https://github.com/zereight/gitlab-mcp/issues",
+     "npm": "https://www.npmjs.com/package/@zereight/mcp-gitlab"
+    }
+   },
+   "flags": {
+    "insecure": 0
+   }
+  },
+  {
+   "downloads": {
+    "monthly": 898433,
+    "weekly": 247990
+   },
+   "dependents": "93",
+   "updated": "2026-11-12T09:56:35.593Z",
+   "searchScore": 43.886395,
+   "package": {
+    "name": "yahoo-finance2",
+    "keywords": [
+     "yahoo",
+     "finance",
+     "financial",
+     "data",
+     "stock",
+     "price"
+    ],
+    "version": "4.0.6",
+    "description": "JS API for Yahoo Finance",
+    "sanitized_name": "yahoo-finance2",
+    "license": "MIT",
+    "date": "2026-11-08T13:05:08.873Z",
+    "links": {
+     "homepage": "https://github.com/gadicc/yahoo-finance2#readme",
+     "repository": "git+https://github.com/gadicc/yahoo-finance2.git",
+     "bugs": "https://github.com/gadicc/yahoo-finance2/issues",
+     "npm": "https://www.npmjs.com/package/yahoo-finance2"
+    }
+   },
+   "flags": {
+    "insecure": 0
+   }
+  },
+  {
+   "downloads": {
+    "monthly": 700734,
+    "weekly": 167986
+   },
+   "dependents": "7",
+   "updated": "2026-11-12T09:50:16.595Z",
+   "searchScore": 43.530144,
+   "package": {
+    "name": "@mcp-b/transports",
+    "keywords": [
+     "ai-agents",
+     "ai-assistant",
+     "ai-tools",
+     "anthropic",
+     "browser",
+     "browser-automation"
+    ],
+    "version": "6.2.0",
+    "description": "Browser transport implementations for Model Context Protocol (MCP) - postMessage, Chrome extension messaging, and iframe communication for AI agents and LLMs",
+    "sanitized_name": "@mcp-b/transports",
+    "license": "MIT",
+    "date": "2026-11-10T04:29:54.378Z",
+    "links": {
+     "homepage": "https://docs.mcp-b.ai/packages/transports/reference",
+     "repository": "git+https://github.com/WebMCP-org/npm-packages.git",
+     "bugs": "https://github.com/WebMCP-org/npm-packages/issues",
+     "npm": "https://www.npmjs.com/package/@mcp-b/transports"
+    }
+   },
+   "flags": {
+    "insecure": 0
+   }
+  }
+ ],
+ "total": 11453,
+ "time": "2026-11-13T10:12:16.645Z"
+}

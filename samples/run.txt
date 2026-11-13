@@ -1,0 +1,23 @@
+$ python mcp_radar.py run
+github search: 2635 repositories
+github totals: 43137 repositories under topic mcp-server
+registry: 3400 latest server entries
+npm: 2000 packages
+github repo lookups: 242 of 2767 repositories not in the search results
+snapshot snapshots/2026-11-13.json: 7589 servers  ({"totals": {"monthly": {"2024-11": 25, "2024-12": 87, "2025-01": 82, "2025-02": 127, "2025-03": 549, "2025-04": 799, "2025-05": 651, "2025-06": 742, "2025-07": 642, "2025-08": 598, "2025-09": 529, "2025-10": 590, "2025-11": 580, "2025-12": 650, "2026-01": 928, "2026-02": 1672, "2026-03": 3131, "2026-04": 2820, "2026-05": 2951, "2026-06": 3018, "2026-07": 2975, "2026-08": 3164, "2026-09": 4626, "2026-10": 7741, "2026-11": 3054}, "topic_total": 43137, "created_30d": 7551}, "github_repos": 2635, "registry_servers": 3400, "npm_packages": 2000, "pypi_lookups": 49, "pypi_found": 49, "repo_lookups": 242, "repo_lookups_skipped": 2467})
+built {"servers": 7589, "with_stars": 2877, "categories": 14, "snapshots": 1}
+
+$ python mcp_radar.py top -n 10
+  210,363  n8n-io/n8n
+  108,811  google-gemini/gemini-cli
+  102,351  D4Vinci/Scrapling
+   90,563  koala73/worldmonitor
+   81,605  ruvnet/ruflo
+   64,722  upstash/context7
+   63,616  sansan0/TrendRadar
+   55,193  ChromeDevTools/chrome-devtools-mcp
+   48,596  DeusData/codebase-memory-mcp
+   45,695  reactive-resume/reactive-resume
+
+$ python mcp_radar.py top --by delta7
+no delta7 yet: needs a snapshot 7 to 14 days old

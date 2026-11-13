@@ -1,0 +1,15 @@
+{
+ "full_name": "modelcontextprotocol/servers",
+ "html_url": "https://github.com/modelcontextprotocol/servers",
+ "description": "Model Context Protocol Reference Servers",
+ "stargazers_count": 91963,
+ "forks_count": 11961,
+ "pushed_at": "2026-11-12T05:37:52Z",
+ "created_at": "2024-11-19T01:10:17Z",
+ "topics": [],
+ "language": "TypeScript",
+ "archived": false,
+ "license": {
+  "spdx_id": "NOASSERTION"
+ }
+}
